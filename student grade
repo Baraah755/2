@@ -2,3 +2,5 @@ read student name,
 read id,
 read spc,
 read details
+read mark1, mark2, mark3
+cgpa= mark1, mark2, mark3

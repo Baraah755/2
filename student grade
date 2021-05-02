@@ -2,3 +2,6 @@ read student name,
 read id,
 read spc,
 read details
+
+read m1, m2, m3
+total mark= m1+m2+m3
